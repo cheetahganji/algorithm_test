@@ -1,7 +1,3 @@
-'''
-프로그래머스 : 가장 큰 
-'''
-
 def solution(numbers):
     answer = ''
 
